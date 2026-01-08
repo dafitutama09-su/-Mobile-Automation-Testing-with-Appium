@@ -18,6 +18,8 @@ Automation mencakup proses **login** dan **add product to cart** sebagai end-to-
 ---
 
 ## 📂 Project Structure
+
+```text
 src
 ├── main
 │   └── java
@@ -31,6 +33,8 @@ src
 ├── evidence
 │   └── login_and_add_to_cart.mp4
 └── README.md
+```
+
 
 ---
 
